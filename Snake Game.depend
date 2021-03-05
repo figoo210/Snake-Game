@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587232818 source:f:\c++\new\snake game\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1586811328 f:\c++\new\snake game\include\player.h
+	<Map.h>
+
+1586813946 f:\c++\new\snake game\include\map.h
+
+1586813887 f:\c++\new\snake game\include\snake.h
+	<Map.h>
+
+1586811829 source:f:\c++\new\snake game\src\player.cpp
+	"Player.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1586813852 source:f:\c++\new\snake game\src\snake.cpp
+	"Snake.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1586813775 source:f:\c++\new\snake game\src\map.cpp
+	"Map.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
